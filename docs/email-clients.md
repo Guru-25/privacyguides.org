@@ -181,27 +181,26 @@ Canary Mail is closed-source. We recommend it due to the few choices there are f
 
 </div>
 
-### K-9 Mail (Android)
+### Thunderbird (Android)
 
 <div class="admonition recommendation" markdown>
 
-![K-9 Mail logo](assets/img/email-clients/k9mail.svg){ align=right }
+![Thunderbird logo](assets/img/email-clients/thunderbird.svg){ align=right }
 
-**K-9 Mail** is an independent mail application that supports both POP3 and IMAP mailboxes, but only supports push mail for IMAP.
+**Thunderbird for Android** is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity
 
-In the future, K-9 Mail will be the [officially branded](https://k9mail.app/2022/06/13/K-9-Mail-and-Thunderbird.html) Thunderbird client for Android.
+Thunderbird for Android is based on K-9 Mail, which comes with a rich history of success and functionality in open source email.
 
-[:octicons-home-16: Homepage](https://k9mail.app){ .md-button .md-button--primary }
-[:octicons-eye-16:](https://k9mail.app/privacy){ .card-link title="Privacy Policy" }
-[:octicons-info-16:](https://docs.k9mail.app){ .card-link title="Documentation" }
-[:octicons-code-16:](https://github.com/thundernest/k-9){ .card-link title="Source Code" }
-[:octicons-heart-16:](https://k9mail.app/contribute){ .card-link title="Contribute" }
+[:octicons-home-16: Homepage](https://www.thunderbird.net/mobile){ .md-button .md-button--primary }
+[:octicons-eye-16:](https://mozilla.org/privacy/thunderbird){ .card-link title="Privacy Policy" }
+[:octicons-info-16:](https://support.mozilla.org/products/thunderbird){ .card-link title="Documentation" }
+[:octicons-code-16:](https://github.com/thunderbird/thunderbird-android){ .card-link title="Source Code" }
 
 <details class="downloads" markdown>
 <summary>Downloads</summary>
 
-- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
-- [:simple-github: GitHub](https://github.com/thundernest/k-9/releases)
+- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
+- [:simple-github: GitHub](https://github.com/thunderbird/thunderbird-android/releases)
 
 </details>
 
@@ -210,7 +209,7 @@ In the future, K-9 Mail will be the [officially branded](https://k9mail.app/2022
 <div class="admonition warning" markdown>
 <p class="admonition-title">Warning</p>
 
-When replying to someone on a mailing list, the "reply" option may also include the mailing list. For more information see [thundernest/k-9 #3738](https://github.com/thundernest/k-9/issues/3738).
+When replying to someone on a mailing list, the "reply" option may also include the mailing list. For more information see [thundernest/thunderbird-android #3738](https://github.com/thunderbird/thunderbird-android/issues/3738).
 
 </div>
 

@@ -76,6 +76,13 @@ These options can be found in :material-menu: → **Settings** → **Privacy & S
 
 [`thunderbird-user.js`](https://github.com/HorlogeSkynet/thunderbird-user.js) is a set of configuration options that aims to disable as many of the web-browsing features within Thunderbird Desktop as possible in order to reduce attack surface and maintain privacy. Some of the changes are backported from the [Arkenfox project](desktop-browsers.md#arkenfox-advanced).
 
+<div class="admonition warning" markdown>
+<p class="admonition-title">Warning</p>
+
+When replying to someone on a mailing list in Thunderbird Mobile, the "reply" option may also include the mailing list. For more information see [thunderbird/thunderbird-android #3738](https://github.com/thunderbird/thunderbird-android/issues/3738).
+
+</div>
+
 ## Platform Specific
 
 ### Apple Mail (macOS)

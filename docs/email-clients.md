@@ -187,7 +187,7 @@ Canary Mail is closed-source. We recommend it due to the few choices there are f
 
 ![Thunderbird logo](assets/img/email-clients/thunderbird.svg){ align=right }
 
-**Thunderbird for Android** is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity
+**Thunderbird for Android** is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity.
 
 Thunderbird for Android is based on K-9 Mail, which comes with a rich history of success and functionality in open source email.
 

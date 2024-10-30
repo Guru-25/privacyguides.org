@@ -40,14 +40,21 @@ OpenPGP also does not support [forward secrecy](https://en.wikipedia.org/wiki/Fo
 <details class="downloads" markdown>
 <summary>Downloads</summary>
 
+- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
+- [:simple-github: GitHub](https://github.com/thunderbird/thunderbird-android/releases)
 - [:fontawesome-brands-windows: Windows](https://thunderbird.net)
 - [:simple-apple: macOS](https://thunderbird.net)
 - [:simple-linux: Linux](https://thunderbird.net)
 - [:simple-flathub: Flathub](https://flathub.org/apps/details/org.mozilla.Thunderbird)
-- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
-- [:simple-github: GitHub](https://github.com/thunderbird/thunderbird-android/releases)
 
 </details>
+
+</div>
+
+<div class="admonition warning" markdown>
+<p class="admonition-title">Warning</p>
+
+When replying to someone on a mailing list in Thunderbird Mobile, the "reply" option may also include the mailing list. For more information see [thunderbird/thunderbird-android #3738](https://github.com/thunderbird/thunderbird-android/issues/3738).
 
 </div>
 
@@ -75,13 +82,6 @@ These options can be found in :material-menu: → **Settings** → **Privacy & S
 #### Thunderbird-user.js (advanced)
 
 [`thunderbird-user.js`](https://github.com/HorlogeSkynet/thunderbird-user.js) is a set of configuration options that aims to disable as many of the web-browsing features within Thunderbird Desktop as possible in order to reduce attack surface and maintain privacy. Some of the changes are backported from the [Arkenfox project](desktop-browsers.md#arkenfox-advanced).
-
-<div class="admonition warning" markdown>
-<p class="admonition-title">Warning</p>
-
-When replying to someone on a mailing list in Thunderbird Mobile, the "reply" option may also include the mailing list. For more information see [thunderbird/thunderbird-android #3738](https://github.com/thunderbird/thunderbird-android/issues/3738).
-
-</div>
 
 ## Platform Specific
 

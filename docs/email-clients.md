@@ -44,6 +44,8 @@ OpenPGP also does not support [forward secrecy](https://en.wikipedia.org/wiki/Fo
 - [:simple-apple: macOS](https://thunderbird.net)
 - [:simple-linux: Linux](https://thunderbird.net)
 - [:simple-flathub: Flathub](https://flathub.org/apps/details/org.mozilla.Thunderbird)
+- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
+- [:simple-github: GitHub](https://github.com/thunderbird/thunderbird-android/releases)
 
 </details>
 
@@ -53,7 +55,7 @@ OpenPGP also does not support [forward secrecy](https://en.wikipedia.org/wiki/Fo
 
 <div class="annotate" markdown>
 
-We recommend changing some of these settings to make Thunderbird a little more private.
+We recommend changing some of these settings to make Thunderbird Desktop a little more private.
 
 These options can be found in :material-menu: → **Settings** → **Privacy & Security**.
 
@@ -72,7 +74,7 @@ These options can be found in :material-menu: → **Settings** → **Privacy & S
 
 #### Thunderbird-user.js (advanced)
 
-[`thunderbird-user.js`](https://github.com/HorlogeSkynet/thunderbird-user.js) is a set of configuration options that aims to disable as many of the web-browsing features within Thunderbird as possible in order to reduce attack surface and maintain privacy. Some of the changes are backported from the [Arkenfox project](desktop-browsers.md#arkenfox-advanced).
+[`thunderbird-user.js`](https://github.com/HorlogeSkynet/thunderbird-user.js) is a set of configuration options that aims to disable as many of the web-browsing features within Thunderbird Desktop as possible in order to reduce attack surface and maintain privacy. Some of the changes are backported from the [Arkenfox project](desktop-browsers.md#arkenfox-advanced).
 
 ## Platform Specific
 
@@ -178,38 +180,6 @@ Canary Mail is closed-source. We recommend it due to the few choices there are f
 - [:simple-flathub: Flathub](https://flathub.org/apps/details/org.gnome.Evolution)
 
 </details>
-
-</div>
-
-### Thunderbird (Android)
-
-<div class="admonition recommendation" markdown>
-
-![Thunderbird logo](assets/img/email-clients/thunderbird.svg){ align=right }
-
-**Thunderbird for Android** is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity.
-
-Thunderbird for Android is based on K-9 Mail, which comes with a rich history of success and functionality in open source email.
-
-[:octicons-home-16: Homepage](https://www.thunderbird.net/mobile){ .md-button .md-button--primary }
-[:octicons-eye-16:](https://mozilla.org/privacy/thunderbird){ .card-link title="Privacy Policy" }
-[:octicons-info-16:](https://support.mozilla.org/products/thunderbird){ .card-link title="Documentation" }
-[:octicons-code-16:](https://github.com/thunderbird/thunderbird-android){ .card-link title="Source Code" }
-
-<details class="downloads" markdown>
-<summary>Downloads</summary>
-
-- [:simple-googleplay: Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
-- [:simple-github: GitHub](https://github.com/thunderbird/thunderbird-android/releases)
-
-</details>
-
-</div>
-
-<div class="admonition warning" markdown>
-<p class="admonition-title">Warning</p>
-
-When replying to someone on a mailing list, the "reply" option may also include the mailing list. For more information see [thundernest/thunderbird-android #3738](https://github.com/thunderbird/thunderbird-android/issues/3738).
 
 </div>
 
